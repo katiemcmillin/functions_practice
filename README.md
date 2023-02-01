@@ -76,9 +76,9 @@ This function should take three arguments: two numbers and a string.
 
 Name the parameters `num1`, `num2`, and `operation`.
 
-If if the function is called with the third argument as “add”, it should return the sum of num1 and num2.
+If the function is called with the third argument as “add”, it should return the sum of num1 and num2.
 
-If if the function is called with the third argument as “sub”, it should return return `num1` minus `num2`.
+If the function is called with the third argument as “sub”, it should return return `num1` minus `num2`.
 
 Do the same thing for multiplication “mult”, division “div”, and exponent “exp” (where `num2` is the exponent of `num1`).
 
